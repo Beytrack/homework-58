@@ -1,0 +1,44 @@
+img{
+  width: 100px;
+  border-radius:50%;
+}
+body{
+  background-repeat:no-repeat;
+}
+#backround{
+        position: absolute;
+      background: linear-gradient(#000cfa 5%, #f7f5f5 50%);
+  padding: 20px;
+  font-size: 18px;
+  text-align: center;
+        display: table;
+    z-index: 9;
+}
+/*.line{
+      height: 600px;
+    background-color: black;
+    width: 700px;
+    margin: 8px auto;
+}*/
+h1{
+  text-shadow:2px 2px #1565C0;
+  font-size: 20px;
+}
+.menu{
+        list-style: none;
+    font-family: cursive;
+    float: right    ;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+    /*z-index: 10;*/
+    
+}
+/*links:hover{
+  background-color: brown;  
+}*/
+.links{
+    display:inline-block;
+}
+
